@@ -5,7 +5,6 @@
 - 🔭 I have completed my Bachelors in Electronic Engineering from Rajkiya Engineering College, Kannauj (Uttar Pradesh).
 - 🔭 I am really passionate about Software Development, Full Stack Web Development and AI.
 - 💬 My Personal motive is to give my full potential to learn about AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
-- 😄 Pronouns: he/him
 
 Skills: Core Java | Data Structures & Algorithms | Problem Solving 
 
