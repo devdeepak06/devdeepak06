@@ -22,7 +22,7 @@
 - 🔭 I am really passionate about Software Development, Full Stack Web Development and AI.
 - 💬 My Personal motive is to give my full potential to learn about AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 - Currently learning Web Development by Coding Ninjas.
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/15eUuqqDJKwnTqcdvnFJdlu0G0sTNBfgF/view?usp=share_link)
+- I’m currently open for an Intern or a new job opportunity, this is <a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/15eUuqqDJKwnTqcdvnFJdlu0G0sTNBfgF/view?usp=share_link">my resume.</a>
 
 <br><br>
 
