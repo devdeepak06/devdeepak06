@@ -74,13 +74,6 @@
       </div>
 
 </p>
-<p align="center">
--📫 Reach me at: mailto:
-	<a href="mailto:k.deepak2217@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="1.5%"/>
-  </a><span>&nbsp;</span>
-  
-</p>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
