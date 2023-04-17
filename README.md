@@ -1,11 +1,8 @@
 
 <h1 align="center"><b>Hi there, I'm Deepak Kumar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste+Duniya..&hearts;++;Software+Engineer,;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
-
 <br>
 
 
@@ -66,11 +63,11 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/deepak-kumar-62a76820b/">
+        <a style="margin-left: 10px;"  target="blank" href="https://www.linkedin.com/in/deepak-kumar-62a76820b/">
           <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/devdeepak06">
+        <a style="margin-left: 10px;" target="blank" href="https://github.com/devdeepak06">
 		<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/its_deepak0608/">
+        <a style="margin-left: 10px;" target="blank" href="https://www.instagram.com/its_deepak0608/">
 			<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
       </div>
 
