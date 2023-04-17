@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi there, I'm Deepak Kumar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste+Duniya..&hearts;++;Software+Engineer,;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste+Duniya..&hearts;++;Software+Engineer,;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -22,7 +22,7 @@
 - 🔭 I am really passionate about Software Development, Full Stack Web Development and AI.
 - 💬 My Personal motive is to give my full potential to learn about AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 - Currently learning Web Development by Coding Ninjas.
-- I’m currently open for an Intern or a new job opportunity, this is <a style="margin-left: 10px;"  target="_blank" href="https://drive.google.com/file/d/15eUuqqDJKwnTqcdvnFJdlu0G0sTNBfgF/view?usp=share_link">my resume.</a>
+- I’m currently open for an Intern or a new job opportunity, this is <a target="_blank" href="https://drive.google.com/file/d/15eUuqqDJKwnTqcdvnFJdlu0G0sTNBfgF/view?usp=share_link">my resume.</a>
 
 <br><br>
 
