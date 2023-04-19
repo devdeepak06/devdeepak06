@@ -78,8 +78,13 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <div align="center">
-<a href="https://github.com/devdeepak06/"><img src="https://github-readme-stats.vercel.app/api?username=devdeepak06&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devdeepak06&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="devdeepak06"/>
+<p>
+<a href="https://github.com/devdeepak06/"><img src="https://github-readme-stats.vercel.app/api?username=devdeepak06&theme=vue-dark&show_icons=true&hide_border=true&count_private=truee&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepak06&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="devdeepak06"/>
+</p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepak06&theme=vue-dark&hide_border=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="devdeepak06"/>
+</p>
 </a>
 </div>
 <hr>
