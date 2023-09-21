@@ -21,7 +21,7 @@
 - 💬 My Personal motive is to give my full potential to learn about AI-based 
      solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 - Currently learning Web Development by Coding Ninjas.
-- I’m currently open for an Intern or a new job opportunity, this is <a href="https://drive.google.com/file/d/15eUuqqDJKwnTqcdvnFJdlu0G0sTNBfgF/view?usp=share_link" target="_blank">my resume.</a>
+- I’m currently open for an Intern or a new job opportunity, this is <a href="https://drive.google.com/file/d/1fwFAsUOsXEGCl8s9D_DR7VkW3xV0kqDm/view?usp=drive_link" target="_blank">My Resume Link.</a>
 
 <br><br>
 
