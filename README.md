@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi there, I'm Deepak Kumar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste+Duniya..&hearts;++;Software+Engineer,;EC+And+Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste+Duniya..&hearts;++;Software+Engineer,;EC+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <br>
 
@@ -14,7 +14,7 @@
 	
 <br>
 
-- ⚡ Currently learning DSA with Java and Full Stack Web Development.
+- ⚡ Currently learning Full Stack Web Development.
 - 🔭 I have completed my Bachelors in Electronic Engineering from 
      Rajkiya Engineering College, Kannauj (Uttar Pradesh).
 - 🔭 I am really passionate about Software Development, Full Stack Web Development and AI.
