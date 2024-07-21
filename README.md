@@ -14,15 +14,12 @@
 	
 <br>
 
-- ⚡ Currently learning Full Stack Web Development.
+- ⚡ Currently working as Full Stack Web Development.
 - 🔭 I have completed my Bachelors in Electronic Engineering from 
      Rajkiya Engineering College, Kannauj (Uttar Pradesh).
 - 🔭 I am really passionate about Software Development, Full Stack Web Development and AI.
 - 💬 My Personal motive is to give my full potential to learn about AI-based 
      solutions that solve a high-impact problem for people around the globe and simplify everyday living.
-- Currently learning Web Development by Coding Ninjas.
-- I’m currently open for an Intern or a new job opportunity, this is <a href="https://drive.google.com/file/d/1fwFAsUOsXEGCl8s9D_DR7VkW3xV0kqDm/view?usp=drive_link" target="_blank">My Resume Link.</a>
-
 <br><br>
 
 <p align="center">
