@@ -1,0 +1,27 @@
+name: Snake eating contributions
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This runs daily, you can adjust the schedule
+  workflow_dispatch:
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v2
+
+      - name: Generate the Snake Eating Contribution Graph
+        uses: Platane/snk@v2
+        with:
+          github_user: 'devdeepak06'
+
+      - name: Commit & push snake.svg
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: 'GitHub Actions'
+          author_email: 'github-actions[bot]@users.noreply.github.com'
+          message: 'Update contribution graph'
+          add: 'snake.svg'
