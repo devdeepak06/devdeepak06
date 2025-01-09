@@ -56,7 +56,7 @@
           <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a style="margin-left: 10px;" href="https://github.com/devdeepak06" target="_blank">
 		<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-        <a style="margin-left: 10px;" href="https://www.instagram.com/its_deepak0608/" target="_blank">
+        <a style="margin-left: 10px;" href="https://www.instagram.com/ideepakshakya/" target="_blank">
 			<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
       </div>
 
