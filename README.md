@@ -62,7 +62,7 @@
 </div>
 <hr>
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
+<!-- Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂: -->
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hdrparrot.gif" width="30" height="30"/>
